@@ -9,8 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/_ExternalAssets
-/_UnityAssentials
+[Aa]ssets/_ExternalPackages/
+[Aa]ssets/_UnityEssentials/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
