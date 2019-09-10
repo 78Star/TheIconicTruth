@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2e17551c21761ec4ebe83e1818e06933
+guid: 9264d92637c5f1c409f4394f63b4c23e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -37,17 +37,17 @@ ScriptedImporter:
   spriteData:
     TessellationDetail: 0
     SpriteRect:
-      name: 
+      name: jump-acrossSprite
       originalName: 
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.49999997, y: 0.5}
       alignment: 0
       border: {x: 0, y: 0, z: 0, w: 0}
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 0
-        height: 0
-      spriteID: 507bd5276631d314e83b731f387c2fe0
+        width: 512
+        height: 512
+      spriteID: f5d82ea836b8588458779b3dbb6d3160
       internalID: 0
     PhysicsOutlines: []
